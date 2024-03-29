@@ -3,7 +3,6 @@ numpy
 datetime
 bs4
 requests
-urllib
 holidays
 prophet
 sktime

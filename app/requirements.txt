@@ -7,3 +7,4 @@ holidays
 prophet
 sktime
 matplotlib
+streamlit

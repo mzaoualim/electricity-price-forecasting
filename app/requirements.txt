@@ -2,7 +2,6 @@ pandas
 numpy
 datetime
 bs4
-os
 glob
 requests
 urllib

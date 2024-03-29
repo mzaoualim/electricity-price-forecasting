@@ -1,1 +1,13 @@
-
+pandas
+numpy
+datetime
+bs4
+re
+os
+glob
+requests
+urllib
+holidays
+prophet
+sktime
+matplotlib

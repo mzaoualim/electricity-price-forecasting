@@ -19,7 +19,7 @@ This is a full notebook, with step by step implementation of this strategy to Sp
 
 ## Evaluation
 
- * ### Evaluate predictions on a separate test set using Cross-validation Technique and sMAPE metric.
+ * ### Evaluate predictions using Cross-validation Technique and sMAPE metric.
 
 ## Testing Against live data
 
